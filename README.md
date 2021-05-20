@@ -11,12 +11,12 @@ An Open Source Converter Bot scrapped from [Anydl Repo](https://github.com/spech
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/ConvertToVideo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuanidonya/ConvertToVideo)
 
 ### The Normal Way
 
 ```
-git clone https://github.com/prgofficial/ConvertToVideo
+git clone https://github.com/kuanidonya/ConvertToVideo
 cd ConvertToVideo
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
